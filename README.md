@@ -1,8 +1,6 @@
 # KnowledgeHub-An-Interactive-E-Learning-Platform
 
 
-# KnowledgeHub – E-Learning Platform
-
 ## Features
 - User Authentication
 - Course Creation
